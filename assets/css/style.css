@@ -341,7 +341,20 @@ a:focus {
 
 #contact .cover { padding: 150px 0  }
 #contact .play { margin-top: 150px; }
+#contact .play i { display: block; }
 #contact .play a { display: inline; }
+#contact .play a:hover {
+  color: #17944E; /*#0c86b6;*/
+  font-weight: 900;
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  -webkit-transition: all .5s ease;
+     -moz-transition: all .5s ease;
+      -ms-transition: all .5s ease;
+       -o-transition: all .5s ease;
+          transition: all .5s ease;
+}
 #contact,
 #contact a,
 #contact a:hover,
