@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /work.html
+Disallow: /bootstrap_config.json
+Disallow: /README.md
+Disallow: /CNAME
