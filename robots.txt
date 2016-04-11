@@ -1,3 +1,4 @@
+Sitemap: http://www.alterframe.pt/sitemap.xml
 User-agent: *
 Disallow: /assets/
 Disallow: /work.html
