@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www.alterframe.pt$ [NC]
+RewriteRule ^(.*)$ http://www.alterframe.pt/$1 [L,R=301]
